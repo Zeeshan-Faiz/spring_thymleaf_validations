@@ -1,5 +1,7 @@
 # Spring Boot Web Application Documentation
 
+![image.info](snap-shot.png)
+
 ## Overview
 
 Welcome to the Spring Boot Validation Web Application, a project built to showcase the importance of validations and how Spring Boot simplifies the process. This application is designed to demonstrate various validation techniques in a web application context.
